@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "yWJ1FwlVSHU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\duduc\\Downloads\\Teste C#\\teste.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\duduc\\.nuget\\packages\\atksharp\\3.24.24.32\\atksharp.3.24.24.32.nupkg.sha512",
+    "C:\\Users\\duduc\\.nuget\\packages\\cairosharp\\3.24.24.32\\cairosharp.3.24.24.32.nupkg.sha512",
+    "C:\\Users\\duduc\\.nuget\\packages\\gdksharp\\3.24.24.32\\gdksharp.3.24.24.32.nupkg.sha512",
+    "C:\\Users\\duduc\\.nuget\\packages\\giosharp\\3.24.24.32\\giosharp.3.24.24.32.nupkg.sha512",
+    "C:\\Users\\duduc\\.nuget\\packages\\glibsharp\\3.24.24.32\\glibsharp.3.24.24.32.nupkg.sha512",
+    "C:\\Users\\duduc\\.nuget\\packages\\gtksharp\\3.24.24.32\\gtksharp.3.24.24.32.nupkg.sha512",
+    "C:\\Users\\duduc\\.nuget\\packages\\pangosharp\\3.24.24.32\\pangosharp.3.24.24.32.nupkg.sha512"
+  ],
+  "logs": []
+}
